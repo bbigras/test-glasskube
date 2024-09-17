@@ -5,7 +5,7 @@ metadata:
   namespace: shiori
 spec:
   rules:
-    - host: my-shiori.example
+    - host: www.mycompany.com
       http:
         paths:
           - path: /
