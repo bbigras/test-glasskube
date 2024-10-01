@@ -4,6 +4,7 @@ metadata:
   name: shiori
   namespace: shiori
 spec:
+  ingressClassName: cilium
   rules:
     - host: www.mycompany.com
       http:
