@@ -21,7 +21,7 @@ spec:
     version: v62.7.0+1
   values:
     alertmanagerEnabled:
-      value: "false"
+      value: "true"
     grafanaDomain:
       value: ""
     grafanaEnabled:
